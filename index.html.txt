@@ -1,0 +1,16 @@
+<html>
+
+<head>
+
+<body>
+
+Ad : Hüseyin Çoban;
+Numara : 02220224055;
+<p>Bu bir sınav sayfasıdır</p>
+
+</body>
+
+</head>
+
+
+</html>
